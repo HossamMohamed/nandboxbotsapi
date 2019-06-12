@@ -26,7 +26,7 @@ After we download the library  now we can easily build your bot by following the
 If you don't know how to get your configuration data and your token 
 
 - Open your bot in nandbox application and click to `Get token` from right toolbar menu
-or watch this video[[https://www.youtube.com/watch?v=FXb6tjOuxSc&feature=youtu.be](https://www.youtube.com/watch?v=FXb6tjOuxSc&feature=youtu.be)]
+or watch this [[video](https://www.youtube.com/watch?v=FXb6tjOuxSc&feature=youtu.be)]
 
 
 you will get data like this:
